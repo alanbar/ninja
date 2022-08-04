@@ -57,7 +57,7 @@ class _NinjaCardState extends State<NinjaCard> {
             ),
             const SizedBox(height: 10.0),
             Text(
-              'Tom Jones',
+              'Tom Smith',
               style: TextStyle(
                 color: Colors.amberAccent[200],
                 fontWeight: FontWeight.bold,
